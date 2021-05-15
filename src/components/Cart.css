@@ -1,0 +1,31 @@
+.cartBox {
+    border: 2px outset silver;
+    width: 30%;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    margin: 3px;
+    text-align: center;
+    color: silver;
+    
+}
+.cartImg {
+    width: 80%;
+    height: 100px;
+    margin: 0 auto;
+    padding: 3px;
+    object-fit: contain;
+}
+.cartBtn {
+    width: 25%;
+    margin: 3px;
+    background-color: rgba(0,0,0,0.7);
+    border: none;
+    color: silver;
+    border-radius: 2px;
+}
+.cartBtn:hover {
+    background-color: silver;
+    color: black;
+}

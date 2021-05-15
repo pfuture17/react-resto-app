@@ -1,0 +1,65 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: 'Josefin Slab', serif;
+}
+header {
+  text-align: center;
+  font-size: 36px;
+}
+.App {
+  border: 1px solid black;
+  background-image: url('https://www.thebalancesmb.com/thmb/NJmnw6RW7aLI_n5DqEZKhLQTaNk=/1705x1279/smart/filters:no_upscale()/brick-wall-1834784_1920-583893813df78c6f6af606c3.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 800px;
+}
+.app-container {
+  width: 90%;
+  margin: 0 auto;
+  height: 600px;
+  background-image: none;
+
+}
+.container {
+  display: flex;
+  justify-content: space-around;
+}
+.body {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+.menu{
+  width: 45%;
+  background-color: rgba(0,0,0,0.7);
+  text-align: center;
+  border-radius: 5px;
+  color: silver;
+}
+.items {
+  display: flex;
+  flex-wrap: wrap;
+}
+.cart {
+  background-color: rgba(0,0,0,0.7);
+  border-radius: 5px;
+  width: 45%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+.cart h3 {
+ width: 100%; 
+ text-align: center;
+ color: silver;
+}
+.cart h5 {
+  width: 100%;
+  text-align: right;
+  border: 1px solid red;
+}
+h5 {
+  color: silver;
+}

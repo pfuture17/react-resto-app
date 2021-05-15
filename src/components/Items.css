@@ -1,0 +1,38 @@
+.itemBox {
+    border: 2px solid silver;
+    width: 30%;
+    margin: 5px;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    color: silver;
+}
+.itemImg {
+    width: 80%;
+    margin: auto;
+    padding: 3px;
+    
+}
+.menuBtn {
+    margin: 5px;
+    background-color: rgba(0,0,0,0.7);
+    color: silver;
+    border: none;
+    height: 30px;
+    border-radius: 5px;
+}
+.menuBtn:hover {
+    background-color: silver;
+    color: black;
+}
+
+.x {
+    position: relative;
+    top: -90%;
+    left: 90%;
+    cursor: pointer;
+    width: 10%;
+}
+.x:hover {
+    color: black;
+}
