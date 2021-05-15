@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-resto-app/static/css/main.79e63c8c.chunk.css",
+    "main.js": "/react-resto-app/static/js/main.72ac216e.chunk.js",
+    "main.js.map": "/react-resto-app/static/js/main.72ac216e.chunk.js.map",
+    "runtime-main.js": "/react-resto-app/static/js/runtime-main.98628a81.js",
+    "runtime-main.js.map": "/react-resto-app/static/js/runtime-main.98628a81.js.map",
+    "static/js/2.0de0fda5.chunk.js": "/react-resto-app/static/js/2.0de0fda5.chunk.js",
+    "static/js/2.0de0fda5.chunk.js.map": "/react-resto-app/static/js/2.0de0fda5.chunk.js.map",
+    "static/js/3.2427f02c.chunk.js": "/react-resto-app/static/js/3.2427f02c.chunk.js",
+    "static/js/3.2427f02c.chunk.js.map": "/react-resto-app/static/js/3.2427f02c.chunk.js.map",
+    "index.html": "/react-resto-app/index.html",
+    "static/css/main.79e63c8c.chunk.css.map": "/react-resto-app/static/css/main.79e63c8c.chunk.css.map",
+    "static/js/2.0de0fda5.chunk.js.LICENSE.txt": "/react-resto-app/static/js/2.0de0fda5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.98628a81.js",
+    "static/js/2.0de0fda5.chunk.js",
+    "static/css/main.79e63c8c.chunk.css",
+    "static/js/main.72ac216e.chunk.js"
+  ]
+}
